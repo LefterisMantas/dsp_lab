@@ -12,7 +12,7 @@ All observations done about:
 can be found in the  [/exercise_1/Report.pdf](/exercise_1/Report.pdf)
 
 ## Exercise 2
-The second [/exercise_1](/exercise_2) is about creating FIR filters with 3 techniques:
+The second [/exercise_2](/exercise_2) is about creating FIR filters with 3 techniques:
 - Fourier Series
 - Don't Care
 - Min-Max
